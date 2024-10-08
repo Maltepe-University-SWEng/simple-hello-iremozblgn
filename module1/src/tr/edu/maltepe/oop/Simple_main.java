@@ -3,7 +3,7 @@ public  class Simple_main {
 
  public static void main(String []args)
     {
-       System.out.println("benim adım irem");
+       System.out.println("benim ım irem");
     }
 }
 
